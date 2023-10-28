@@ -1,2 +1,2 @@
-# swe_sql_nosql
+# Practice SQL and NoSQL
  DB creation and mofification with MySQL and MongoDB
