@@ -1,2 +1,5 @@
-# Practice SQL and NoSQL
- DB creation and mofification with MySQL and MongoDB
+# SQL & MongoDb Fundamanetals
+
+The repository is divided into two folders : sql and nosql.
+
+## 1. SQL: 
