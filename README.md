@@ -9,7 +9,7 @@ The database creation and analysis is done in the following steps:
 ### B. [Data Insertion - Part 1](https://github.com/vishalpuri13/swe_sql_nosql/blob/main/sql/sql_data_insert_file1.sql)
 ### C. [Data Insertion - Part 2](https://github.com/vishalpuri13/swe_sql_nosql/blob/main/sql/sql_data_insert_file2_ratings_sales.sql)
 ### D. [Exploratory Analysis](https://github.com/vishalpuri13/swe_sql_nosql/blob/main/sql/sql_exploratory_queries.sql) - The queries are matced to the image numbers [here](https://github.com/vishalpuri13/swe_sql_nosql/tree/main/sql/images).
-### E. [Detailed Analysis](https://github.com/vishalpuri13/swe_sql_nosql/blob/main/sql/sql_detailed_data_analysis.sql)
+### E. [Detailed Analysis](https://github.com/vishalpuri13/swe_sql_nosql/blob/main/sql/sql_detailed_data_analysis.sql) - The queries are matced to the image numbers [here](https://github.com/vishalpuri13/swe_sql_nosql/tree/main/sql/images).
 ### F. [Indexing & Modifications](https://github.com/vishalpuri13/swe_sql_nosql/blob/main/sql/sql_indexation%20and%20modification.sql)
 
 
