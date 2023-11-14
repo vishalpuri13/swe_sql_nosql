@@ -15,6 +15,6 @@ The database creation and analysis is done in the following steps:
 
 ## 2. [NoSQL:](https://github.com/vishalpuri13/swe_sql_nosql/tree/main/nosql)
 
-The assignment is based on the [MongoDb University Tutorial](https://learn.mongodb.com/learning-paths/introduction-to-mongodb). 
+The assignment is based on the  ### [MongoDb University Tutorial](https://learn.mongodb.com/learning-paths/introduction-to-mongodb). 
 
-The attache text file [here](https://github.com/vishalpuri13/swe_sql_nosql/blob/main/nosql/mongoDbTutorial.txt) charts out the steps from creation of database to reading, updating, deleting and querying data using MongoDB.
+The attached text file  ### [here](https://github.com/vishalpuri13/swe_sql_nosql/blob/main/nosql/mongoDbTutorial.txt) charts out the steps from creation of database to reading, updating, deleting and querying data using MongoDB.
