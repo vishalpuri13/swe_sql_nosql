@@ -2,4 +2,4 @@
 
 The repository is divided into two folders : sql and nosql.
 
-## 1. SQL: 
+## 1. SQL:[a link](sql.md) 
